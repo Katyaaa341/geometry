@@ -35,3 +35,5 @@ bin/test
 /.idea
 /cmake-build-debug
 *.swp
+CMakeLists.txt
+
