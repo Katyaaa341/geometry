@@ -1,7 +1,7 @@
-#include <stdio.h>
-#include "name_of_figure.h"
 #include "check_radius.h"
 #include "crossing.h"
+#include "name_of_figure.h"
+#include <stdio.h>
 
 int main()
 {
@@ -35,9 +35,6 @@ int main()
         }
         s1 = pi * (float)r1 * (float)r1;
         p1 = 2 * pi * (float)r1;
-
-
-
         printf("Введите координаты I окружности  - ");
         if (scanf("%d", &x2) != 1) {
             printf("\nЗначение координат должно быть целым");
