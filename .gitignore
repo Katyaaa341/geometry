@@ -30,7 +30,7 @@
 *.exe
 *.out
 *.app
-bin/prog
+bin/main
 bin/test
 /.idea
 /cmake-build-debug
