@@ -1,5 +1,5 @@
-#include <stdlib.h>
 #include <math.h>
+#include <stdlib.h>
 
 int crossing(int x1, int y1, int x2, int y2, int r1, int r2)
 {

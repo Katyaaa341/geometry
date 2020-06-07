@@ -1,6 +1,6 @@
 #include <string.h>
 
-int nameFigure(char *figure)
+int nameFigure(char* figure)
 {
     if (strncmp(figure, "circle", 6) == 0) {
         return 0;
